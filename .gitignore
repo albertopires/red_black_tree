@@ -1,0 +1,6 @@
+*.out
+*.o
+*.ser
+*.swp
+core*
+test_tree
